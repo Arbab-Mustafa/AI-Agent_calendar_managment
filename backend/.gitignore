@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.DS_Store
+/build/
+.vscode/
+npm-debug.log
+yarn-error.log
+__pycache__/
+*.pyc
+.env
+.DS_Store
+logs/
+*.log
